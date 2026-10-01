@@ -1,0 +1,6 @@
+﻿  Ejercicio21.cpp
+C:\Users\alumno1\Documents\Algoritmo y Programacion 8-30\SegundoParcial Algoritmos y Programacion\ProgramaCPP\Ejercicio21\Ejercicio21.cpp(30,19): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\alumno1\Documents\Algoritmo y Programacion 8-30\SegundoParcial Algoritmos y Programacion\ProgramaCPP\Ejercicio21\Ejercicio21.cpp(34,19): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\alumno1\Documents\Algoritmo y Programacion 8-30\SegundoParcial Algoritmos y Programacion\ProgramaCPP\Ejercicio21\Ejercicio21.cpp(36,19): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\alumno1\Documents\Algoritmo y Programacion 8-30\SegundoParcial Algoritmos y Programacion\ProgramaCPP\Ejercicio21\Ejercicio21.cpp(38,19): warning C4305: '=': truncamiento de 'double' a 'float'
+  Ejercicio21.vcxproj -> C:\Users\alumno1\Documents\Algoritmo y Programacion 8-30\SegundoParcial Algoritmos y Programacion\ProgramaCPP\x64\Debug\Ejercicio21.exe
