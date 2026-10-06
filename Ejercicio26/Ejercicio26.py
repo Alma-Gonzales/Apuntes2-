@@ -1,4 +1,4 @@
-#Apunte 3 Calcular el iva 16% de una venta, subtotal y total.
+#Apunte 4 Calcular el iva 16% de una venta, subtotal y total.
 #Solicitar precio y cantidad del producto
 #Alma Leticia Douglas Gonzales Guilbert
 
