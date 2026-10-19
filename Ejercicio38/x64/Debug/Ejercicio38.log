@@ -1,0 +1,3 @@
+﻿  Ejercicio38.cpp
+C:\Users\alumno1\Documents\Algoritmo y Programacion 8-30\SegundoParcial Algoritmos y Programacion\ProgramaCPP\Ejercicio38\Ejercicio38.cpp(41,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Ejercicio38.vcxproj -> C:\Users\alumno1\Documents\Algoritmo y Programacion 8-30\SegundoParcial Algoritmos y Programacion\ProgramaCPP\x64\Debug\Ejercicio38.exe
